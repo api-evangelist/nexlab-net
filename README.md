@@ -74,9 +74,30 @@ Everything profiled for nexlab-net is published on APIs.io rather than in this r
 
 ### APIs (1)
 
-- Nexlab MCP — Model Context Protocol (MCP) servers for autonomous agents, providing data with source attribution.
+- [Nexlab MCP](https://apis.io/apis/nexlab-net/nexlab-mcp/) — Model Context Protocol (MCP) servers for autonomous agents, providing data with source attribution.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nexlab Net Authentication](https://apis.io/security/nexlab-net/nexlab-net-authentication/)
+- [Nexlab Net Domain Security](https://apis.io/security/nexlab-net/nexlab-net-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Nexlab Net Scopes](https://apis.io/scopes/nexlab-net/nexlab-net-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Nexlab Net Plans Pricing](https://apis.io/plans/nexlab-net/nexlab-net-plans-pricing/)
 
 ## Where to find this API
 
@@ -87,7 +108,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/nexlab-net/](https://apis.io/providers/nexlab-net/).
+**Kin Score 7.0** — minimal · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 5.3 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 21.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nexlab-net/](https://apis.io/providers/nexlab-net/).
 
 ## How this profile is made
 
